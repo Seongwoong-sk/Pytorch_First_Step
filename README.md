@@ -1,4 +1,6 @@
 # Pytorch_First_Step
+『파이토치 첫걸음』책으로 공부한 내용을 담았습니다.
+
 ------
 > Chapter 1. 딥러닝에 대하여    
 > Chapter 2. 파이토치    
